@@ -11,7 +11,7 @@
 
 ((https://brune.netlify.app/)) checkout live deployment
 
-## Currently its not responsible so please access the site on PC browser
+## Currently its not responsive for smaller screen size,so please access the site on PC browser
 
 # TechStack and Utilities used
 
