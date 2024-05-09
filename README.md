@@ -11,6 +11,8 @@
 
 ((https://brune.netlify.app/)) checkout live deployment
 
+## Currently its not responsible so please access the site on PC browser
+
 # TechStack and Utilities used
 
 1. **ReactJS**
